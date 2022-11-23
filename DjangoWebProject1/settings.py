@@ -25,7 +25,7 @@ SECRET_KEY = 'a70d262b-50cb-4b8f-aea9-5a0fd20f07af'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangowebproject2.herokuapp.com',]
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
